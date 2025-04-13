@@ -1,8 +1,6 @@
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Health IO is an app used to locate
+medications from various recommended phamarcies along with various prices
 
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
+feature 1: add your doctor 
+feature 2: Use map for location 
+
